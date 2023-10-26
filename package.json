@@ -35,7 +35,7 @@
     "@types/node": "7.0.5",
     "brackets-inspection-gutters": "0.2.10",
     "fuzzaldrin": "2.1.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "tslint": "4.0.2",
     "typescript": "2.1.4"
   },
